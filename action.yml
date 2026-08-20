@@ -1,0 +1,7 @@
+name: 'Decoy Action'
+description: 'Harmless decoy action, deliberately archived for the Fencer GitHub SaaS scanning fixture (WF-20 archived-actions check).'
+runs:
+  using: 'composite'
+  steps:
+    - run: echo "decoy"
+      shell: bash
