@@ -1,5 +1,5 @@
 name: 'Decoy Action'
-description: 'Harmless decoy action, deliberately archived for the Fencer GitHub SaaS scanning fixture (WF-20 archived-actions check).'
+description: 'Harmless composite action, deliberately archived to test detection of archived Action dependencies in CI.'
 runs:
   using: 'composite'
   steps:
